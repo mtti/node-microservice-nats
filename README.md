@@ -1,0 +1,1 @@
+A plugin for [@mtti/microservice](https://github.com/mtti/node-microservice) which connects to NATS when the microservice starts. The servers to connect to are parsed from the `NATS_SERVERS` environment variable, which should be a comma-separated list of server URLs.

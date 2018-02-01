@@ -1,0 +1,12 @@
+{
+  "name": "@mtti/microservice-nats",
+  "version": "0.1.0",
+  "description": "NATS plugin for @mtti/microservice",
+  "author": "Matti Hiltunen",
+  "license": "Apache-2.0",
+  "repository": "github:mtti/node-microservice-nats",
+  "main": "index.js",
+  "dependencies": {
+    "nats": "0.7.24"
+  }
+}
